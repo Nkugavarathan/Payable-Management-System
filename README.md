@@ -38,6 +38,9 @@ Once the program is running, you'll interact with a menu-driven interface:
 ## 💾 File Export
 All payable records can be exported to a **print.txt** file using the Print Payable option from the main menu. This file will include a detailed summary of all registered invoices and employee payables.
 
+## Demo Video
+[Download Project Demo Video](Demo.mp4)
+
 ## 🔮 Future Enhancements
 - Add support for salaried employees.
 - Improve the CLI to include more advanced navigation options.
