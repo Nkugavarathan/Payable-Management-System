@@ -1,0 +1,11 @@
+Invoice: 
+part number: 20 (Metal) 
+quantity: 20
+price per item: Rs100.0
+payment due: Rs2000.0
+
+Hourly Employee: kugan vara (20)
+National Identification Number: 2000111v
+hourly wage: Rs 100.0 ; hours worked : 12.0
+earned: Rs 1200.0
+

@@ -1,0 +1,16 @@
+Invoice: 
+part number: 2001 (Metal) 
+quantity: 2
+price per item: Rs1000.0
+payment due: Rs2000.0
+
+Hourly Employee: Vara Ravi (16)
+National Identification Number: 20001111v
+hourly wage: Rs 100.0 ; hours worked : 12.0
+earned: Rs 1200.0
+
+Hourly Employee: ravan miro (34)
+National Identification Number: 2342323v
+gross sales: Rs 1000.0 ; commision rate : 0.0
+earned: Rs 0.0
+
